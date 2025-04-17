@@ -1,20 +1,37 @@
-# Full Stack AI Career Coach with Next JS, Neon DB, Tailwind, Prisma, Inngest, Shadcn UI Tutorial 🔥🔥
-## https://youtu.be/UbXpRv5ApKA
+# AI Career Coach 🚀
 
-![sensai](https://github.com/user-attachments/assets/eee79242-4056-4d19-b655-2873788979e1)
+Welcome to the **AI Career Coach** repository! 🎯 This project leverages **AI** technologies to provide career guidance, recommendations, and insights for professionals looking to level up. Whether you're just starting or looking to change careers, we've got you covered. 💼✨
 
-### Make sure to create a `.env` file with following variables -
+## Features 🌟
+- **Personalized Career Paths**: AI-powered recommendations based on your profile.
+- **Real-Time Progress Tracking**: Interactive dashboard to monitor your career progress.
+- **Onboarding Assistance**: A smooth onboarding flow to get you up and running.
+- **Industry Insights**: Data-driven insights from various fields to help you make informed decisions.
 
-```
-DATABASE_URL=
+## Tech Stack 💻
 
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
+- **Frontend**: React.js, Next.js
+- **Backend**: Node.js, Express.js
+- **Database**: PostgreSQL, Prisma ORM, **Neon** (serverless database)
+- **Authentication**: Clerk
+- **AI Integration**: Gemini API, OpenAI GPT
+- **Task Orchestration**: **Inngest** (for event-driven workflows)
+  
+## Getting Started 🚀
 
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
-NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
+### Prerequisites 🔑
 
-GEMINI_API_KEY=
-```
+Make sure you have the following installed:
+
+- Node.js (v16 or higher)
+- npm or yarn
+- PostgreSQL (or your preferred database)
+- Neon (for serverless database setup)
+- Inngest (for task orchestration)
+
+### Setup 🛠️
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/VishvajeetGaikwad/AI-Career-Coach.git
