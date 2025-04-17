@@ -31,9 +31,4 @@ Make sure you have the following installed:
 - Neon (for serverless database setup)
 - Inngest (for task orchestration)
 
-### Setup 🛠️
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/VishvajeetGaikwad/AI-Career-Coach.git
