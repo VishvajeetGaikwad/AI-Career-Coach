@@ -2,6 +2,8 @@
 
 Welcome to the **AI Career Coach** repository! 🎯 This project leverages **AI** technologies to provide career guidance, recommendations, and insights for professionals looking to level up. Whether you're just starting or looking to change careers, we've got you covered. 💼✨
 
+[![Live Preview]📷(https://ai-career-coach-xv0r.onrender.com)
+
 ## Features 🌟
 - **Personalized Career Paths**: AI-powered recommendations based on your profile.
 - **Real-Time Progress Tracking**: Interactive dashboard to monitor your career progress.
